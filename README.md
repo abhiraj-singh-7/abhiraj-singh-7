@@ -11,7 +11,7 @@ Previously, I was a **Data Science Intern (AI & ML) at Medcan**, where I built A
 ### calMOG — AI Syllabus to Calendar App
 
 **Live:** https://www.calmog.net  
-**Repo:** https://github.com/abhiraj-singh-7/calmog
+**Repo:** Private
 
 calMOG helps students upload course syllabi and automatically extract assignments, quizzes, exams, grading weights, and course policies into a structured academic calendar.
 
